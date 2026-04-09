@@ -63,7 +63,7 @@ Modern NLP systems:
 ## 🏗️ Architecture
 
 <div align="center">
-  <img src="assets/architecture.png" width="600"/>
+  <img src="architec1.png" width="600"/>
 </div>
 
 ---
