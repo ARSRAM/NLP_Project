@@ -1,0 +1,6 @@
+Config,Micro F1,Macro F1,Weighted F1,Micro P,Micro R,Hamming,Time(s)
+TF-IDF word only (baseline),0.7352,0.1193,0.6545,0.8209,0.6658,0.0041,118.4
++ Char TF-IDF (syntax proxy),0.7793,0.2105,0.7235,0.8372,0.7289,0.0035,1220.0
++ Synthetic proxy (15-dim),0.7711,0.2334,0.7276,0.8096,0.7362,0.0037,5100.2
++ Topic affinity,0.8331,0.5207,0.8217,0.8293,0.8369,0.0029,2293.3
+Full model (+ meta affinity),0.8347,0.5246,0.8228,0.8321,0.8374,0.0028,2983.1
