@@ -144,26 +144,27 @@ Multi-Label Output
 
 ## ⚙️ Installation
 
-### Requirements
+**Requirements:**
+- `lxml==6.0.2`
+- `python-docx==1.2.0`
+- `typing_extensions==4.15.0`
+- `pandas`
+- `scikit-learn`
+- `numpy`
+- `scipy`
 
-```txt
-lxml==6.0.2
-python-docx==1.2.0
-typing_extensions==4.15.0
-```
-
-### Setup
-
+**Setup:**
+Clone the repository and install the dependencies:
 ```bash
 pip install -r requirements.txt
-```
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 ```bash
-python main.py
+python Linguasynth_reuters.py
+
 ```
 
 ---
